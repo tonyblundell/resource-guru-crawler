@@ -3,10 +3,10 @@ resource-guru-crawler
 
 Crawls Resource Guru, prints your bookings on the command line.
 
-Requires a config.py containing something like the following:
-EMAIL = 'example@example.com'
-PASSWORD = 'letmein'
-URL = 'https://mysubdomain.resourceguruapp.com'
+Requires a config.py containing something like the following:  
+EMAIL = 'example@example.com'  
+PASSWORD = 'letmein'  
+URL = 'https://mysubdomain.resourceguruapp.com'  
 
 Pass -h or --help for help.
 
